@@ -13,5 +13,5 @@ Driven by clarity, functionality, and modern design.
 Founded and managed by **Guilherme Sousa**.
 
 📍 Based in Brazil  
-🌐 [guiarts.com](#)  
+🌐 [guiarts.com](https://guiarts.site)  
 🔗 [Developer Links](https://guixl.netlify.app)

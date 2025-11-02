@@ -1,4 +1,4 @@
-# 👋 Welcome to Guiarts
+#  Welcome to Guiarts
 
 **Guiarts** is a creative studio focused on **web development** and **graphic design**.  
 We create clean, responsive websites and professional visuals for brands and businesses.
